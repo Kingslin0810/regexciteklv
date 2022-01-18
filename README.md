@@ -17,7 +17,7 @@ You can install the development version of regexciteklv from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("Kingslin0810/kingslin-toyrpkgfoo")
+devtools::install_github("Kingslin0810/regexciteklv")
 ```
 
 ## Usage
